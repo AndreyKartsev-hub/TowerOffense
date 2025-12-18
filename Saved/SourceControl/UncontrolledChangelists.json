@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/Unreal Projects/TowerOffense/Content/Level_1.umap",
+				"I:/Unreal Projects/TowerOffense/Content/Maps/Level_1.umap"
+			]
+		}
+	]
+}
