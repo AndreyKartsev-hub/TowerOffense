@@ -1,4 +1,11 @@
-[6472:10572:1218/142702.399:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6472:10572:1218/142702.466:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6472:7996:1218/142709.007:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6472:10572:1218/143006.026:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23144:22728:1219/191638.199:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23144:22728:1219/191638.259:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17760:13408:1219/191641.900:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2910C93E1AB873D4934A350B3A803663 will be ignored
+[23144:6160:1219/191642.351:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[23144:22728:1219/191642.499:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[23144:22728:1219/191642.499:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[23144:22728:1219/191642.501:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[23144:22728:1219/191642.501:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[23144:6160:1219/191642.506:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[23144:6160:1219/191644.777:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23144:22728:1219/191653.577:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

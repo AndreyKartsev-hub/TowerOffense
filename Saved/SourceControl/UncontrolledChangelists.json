@@ -5,8 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"I:/Unreal Projects/TowerOffense/Content/Level_1.umap",
-				"I:/Unreal Projects/TowerOffense/Content/Maps/Level_1.umap"
+				"I:/Unreal Projects/TowerOffense/Content/Maps/Level_1.umap",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_MobPath.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BP_GenericMob.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BB_MobBlackboard.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BP_MobController.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BT_MobBehavior.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_DestinationPoint.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_StagingArea.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/GameManagement/BP_PlayerCamera.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/GameManagement/BP_MobSpawner.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_TargetArea.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_Destination.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_MobGoal.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/GameManagement/asfa.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/EnvironmentBlueprints/BP_MobSpawner.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/GameManager/BP_MobSpawner.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/GameManager/BP_PlayerCamera.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BP_StagingArea.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Mobs/BP_DestinationPoint.uasset",
+				"I:/Unreal Projects/TowerOffense/Content/Level_1.umap"
 			]
 		}
 	]
